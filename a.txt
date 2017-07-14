@@ -1,0 +1,14 @@
+场馆座位等级增加了场馆id。
+购物车原来的商品详细id改为商品价格prid
+aspectjweaver.jar
+aspectjrtweaver.jar
+
+鼻中隔前端粘膜糜烂
+
+通过ActionContext类的静态方法getContext().getSession();取得Session对象。
+Map session = ActionContext.getContext().getSession();  
+session.put("username", username);  
+然后在跳转页面：<s:property value="#session.userame"/> 即可拿到。
+
+http://jobs.zhaopin.com/494015886250023.htm
+http://www.kanzhun.com/job/1406601722.html
